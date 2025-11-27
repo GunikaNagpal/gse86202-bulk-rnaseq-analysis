@@ -5,7 +5,6 @@ It includes the essential steps normally shown in real RNA-seq projects:
 	•	Loading differential expression (DEG) results
 	•	Cleaning and preprocessing
 	•	Volcano Plot
-	•	Top Up/Downregulated Genes
 	•	Lollipop Plot of most significant genes
 	•	Distribution plots of log2FC & p-values
 	•	Ranked gene list for GSEA
